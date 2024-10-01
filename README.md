@@ -1,1 +1,1 @@
-# quarto_blog
+Welcome! This is my class blog for PIC 16B at UCLA!
